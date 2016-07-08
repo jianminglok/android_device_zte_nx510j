@@ -1,3 +1,5 @@
+Just a modified test port for AOSPA (Paranoid Android). All credits go to @CyanogenMod and @dianlujitao for their hard work.
+
 Copyright 2016 - The CyanogenMod Project
 
 Device configuration for ZTE Nubia Z9 Max.
